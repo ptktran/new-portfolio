@@ -81,8 +81,8 @@ h2 {
 
   .project-card:hover {
       z-index: 10;
-      transform: scale(1.01);
-      transition-property: all;
+      transform: scale(1.02);
+      transition-property: transform;
   }
 
   .project-card a {
@@ -138,7 +138,8 @@ h2 {
 
   .project-card:hover {
       z-index: 10;
-      transform: scale(1.01);
+      transform: scale(1.02);
+      transition-property: transform;
   }
 
   .project-card a {
