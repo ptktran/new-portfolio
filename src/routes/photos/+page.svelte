@@ -1,7 +1,7 @@
 <script>
   import { fly } from 'svelte/transition';
 </script>
-<link rel="stylesheet" href="/src/styles/photos.css">
+<link rel="stylesheet" href="styles/photos.css">
 <main>
   <div class="gallery-row">
     <div class="col" in:fly="{{ y: 20, duration: 100}}">

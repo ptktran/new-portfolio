@@ -1,7 +1,7 @@
 <script>
   import { fly } from 'svelte/transition';
 </script>
-<link rel="stylesheet" href="/src/styles/projects.css">
+<link rel="stylesheet" href="styles/projects.css">
   <main in:fly="{{ y: 20, duration: 500}}">
     <h2 id="title">Ongoing & Completed Projects</h2>
     <div class="project-card-container">

@@ -1,7 +1,7 @@
 <script>
   import { fly } from 'svelte/transition';
 </script>
-<link rel="stylesheet" href="/src/styles/index.css" />
+<link rel="stylesheet" href="styles/index.css" />
 <main in:fly="{{ y: 20, duration: 500}}">
   <div class="intro">
     <h1>Hi, my name is Peter.</h1>
