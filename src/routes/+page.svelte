@@ -16,6 +16,7 @@
     spotifyApi.setAccessToken(access_token);
     const response = await spotifyApi.getMyCurrentPlayingTrack();
     track = response.item;
+    console.log(track);
   });
 </script>
 
