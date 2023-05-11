@@ -28,6 +28,7 @@ main {
   margin-top: 15px;
   vertical-align: middle;
   width: 100%;
+  border-radius: 5px;
 }
 
 /* Responsive layout - makes a two col-layout instead of four cols */
