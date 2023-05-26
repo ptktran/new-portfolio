@@ -20,7 +20,7 @@
     <a href="https://github.com/ptktran" target="_blank">github</a>
     <a href="https://www.linkedin.com/in/peter-tran-95a4a922b/" target="_blank">linkedin</a>
     <a href = "mailto: petertranminh22@gmail.com" target="_blank">email</a>
-    <a href="https://drive.google.com/file/d/1X-oaftiPX32a7Z5cFbBDaHMNlZYKcSug/view" target="_blank">resume</a>
+    <a href="https://drive.google.com/file/d/1REyuS3kTzsNfTdlUheaRXSywoh3Q-lR_/view" target="_blank">resume</a>
     <a href="https://open.spotify.com/user/m9l81amepbe96a1owslqu2ytk?si=8b26a1a1523e4b12" target="_blank">spotify</a>
     <!-- <a href="https://www.instagram.com/ptktran/" target="_blank">instagram</a> -->
   </div>
