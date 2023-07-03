@@ -42,7 +42,7 @@
             a simple app that informs the weather and suggests
             weather-appropriate outfits
           </p>
-          <div class="language">svelte · tailwind css</div>
+          <div class="language">sveltekit · tailwind css</div>
         </div>
       </a>
 
