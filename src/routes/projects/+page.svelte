@@ -5,6 +5,15 @@
   <main in:fly="{{ y: 20, duration: 500}}">
     <h2 id="title">Ongoing & Completed Projects</h2>
     <div class="project-card-container">
+      <a href="https://github.com/ptktran/Streamify" target="_blank">
+        <div class="project-card streamify">
+          <a>streamify</a>
+          <p>
+            a web app for watching youtube videos together with your friends, in sync.
+          </p>
+          <div class="language">reactjs, tailwind css, nodejs, express, websockets</div>
+        </div>
+      </a>
       <a href="https://github.com/ptktran/cps630-labs" target="_blank">
         <div class="project-card onlineshopping">
           <a>online shopping site</a>
@@ -22,7 +31,7 @@
             users' spotify activity including their favourite genres, songs,
             and artists.
           </p>
-          <div class="language">reactjs, tailwindcss</div>
+          <div class="language">reactjs, tailwind css</div>
         </div>
       </a>
 
@@ -33,7 +42,7 @@
             a simple app that informs the weather and suggests
             weather-appropriate outfits
           </p>
-          <div class="language">svelte, tailwindcss</div>
+          <div class="language">svelte, tailwind css</div>
         </div>
       </a>
 
