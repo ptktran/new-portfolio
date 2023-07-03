@@ -11,7 +11,7 @@
           <p>
             a web app for watching youtube videos together with your friends, in sync.
           </p>
-          <div class="language">reactjs, tailwind css, nodejs, express, websockets</div>
+          <div class="language">reactjs · tailwind css · nodejs · express · websockets</div>
         </div>
       </a>
       <a href="https://github.com/ptktran/cps630-labs" target="_blank">
@@ -20,7 +20,7 @@
           <p>
             a full stack shopping website with a database, login system, products page, and working cart.
           </p>
-          <div class="language">angular, bootstrap, node.js, express, mysql</div>
+          <div class="language">angular · bootstrap · node.js · express · mysql</div>
         </div>
       </a>
       <a href="https://github.com/ptktran/spotify-user-visualizer" target="_blank">
@@ -31,7 +31,7 @@
             users' spotify activity including their favourite genres, songs,
             and artists.
           </p>
-          <div class="language">reactjs, tailwind css</div>
+          <div class="language">reactjs · tailwind css</div>
         </div>
       </a>
 
@@ -42,7 +42,7 @@
             a simple app that informs the weather and suggests
             weather-appropriate outfits
           </p>
-          <div class="language">svelte, tailwind css</div>
+          <div class="language">svelte · tailwind css</div>
         </div>
       </a>
 
@@ -53,14 +53,14 @@
             a personal website that showcases general information about
             myself, my projects, and photographs i have taken
           </p>
-          <div class="language">svelte, css</div>
+          <div class="language">sveltekit · css</div>
         </div>
       </a>
 
       <div class="project-card startupweb">
         <a>startup website</a>
         <p>a landing page for a startup created during an apprenticeship</p>
-        <div class="language">html, css</div>
+        <div class="language">html · css</div>
       </div>
 
     </div>
