@@ -23,12 +23,11 @@
           <div class="language">angular · bootstrap · node.js · express · mysql</div>
         </div>
       </a>
-      <a href="https://github.com/ptktran/spotify-user-visualizer" target="_blank">
+      <a href="https://github.com/ptktran/spotifystats" target="_blank">
         <div class="project-card spotifyvisualizer">
-          <a>spotify biovisualizer</a>
+          <a>spotify stats</a>
           <p>
-            a web app that generates visually appealing cards highlighting
-            users' spotify activity including their favourite genres, songs,
+            a web app that showcases your spotify activity including favourite genres, songs,
             and artists.
           </p>
           <div class="language">reactjs · tailwind css</div>
