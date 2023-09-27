@@ -7,12 +7,12 @@
   <div class="intro">    
     <h1>Hi, my name is Peter.</h1>
     <p class="paragraph">
-      I’m a <b>computer science</b> junior at the Toronto Metropolitan
+      I’m a <b>computer science</b> student at the Toronto Metropolitan
       University. I have a big interest in all things related to <b>web development</b>
       and <b>UI/UX design</b>! During my free time, I love to play and listen
       to music, watch movies, and cook. My favorite languages are <b>Python</b> and
-      <b>JavaScript</b>, but I’m always trying to add a new one to the list. Check out
-      some of my projects and photographs I have taken over the years :)
+      <b>JavaScript</b>, but I’m always looking to add a new one to the list. Check out
+      some of my personal projects and photography I have worked on over the years :)
     </p>
   </div>
   <div class="socials">
