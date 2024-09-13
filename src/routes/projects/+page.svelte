@@ -3,8 +3,17 @@
 </script>
 <link rel="stylesheet" href="styles/projects.css">
   <main in:fly="{{ y: 20, duration: 500}}">
-    <h2 id="title">Ongoing & Completed Projects</h2>
+    <h2 id="title">My Projects</h2>
     <div class="project-card-container">
+      <a href="https://nhacoffee.com/" target="_blank">
+        <div class="project-card nha">
+          <a>nha cafe</a>
+          <p>
+            main website for a coffee shop in halifax, personally designed and built by my own
+          </p>
+          <div class="language">nextjs · tailwind css · posthog</div>
+        </div>
+      </a>
       <a href="https://github.com/ptktran/Streamify" target="_blank">
         <div class="project-card streamify">
           <a>streamify</a>
@@ -31,17 +40,6 @@
             and artists.
           </p>
           <div class="language">reactjs · tailwind css</div>
-        </div>
-      </a>
-
-      <a href="https://github.com/ptktran/weather-outfitter" target="_blank">
-        <div class="project-card weatheroutfitter">
-          <a>weather outfitter (ongoing)</a>
-          <p>
-            a simple app that informs the weather and suggests
-            weather-appropriate outfits
-          </p>
-          <div class="language">sveltekit · tailwind css</div>
         </div>
       </a>
 

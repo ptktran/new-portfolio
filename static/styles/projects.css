@@ -55,22 +55,22 @@ h2 {
       margin-top: 40px;
   }
 
+  .project-card.nha {
+    z-index: 8;
+  }
+
   .project-card.streamify {
     z-index: 7;
+    margin-top: -3px;
   }
 
   .project-card.onlineshopping {
     z-index: 6;
-    margin-top: -3px;
+    margin-top: -6px;
   }
 
   .project-card.spotifyvisualizer {
       z-index: 5;
-      margin-top: -6px;
-  }
-  
-  .project-card.weatheroutfitter {
-      z-index: 4;
       margin-top: -9px;
   }
 
@@ -117,23 +117,23 @@ h2 {
   .project-card-container {
       margin-top: 40px;
   }
+  
+  .project-card.nha {
+    z-index: 8;
+  }
 
   .project-card.streamify {
     z-index: 7;
+    margin-top: -3px;
   }
 
   .project-card.onlineshopping {
     z-index: 6;
-    margin-top: -3px;
+    margin-top: -6px;
   }
 
   .project-card.spotifyvisualizer {
       z-index: 5;
-      margin-top: -6px;
-  }
-  
-  .project-card.weatheroutfitter {
-      z-index: 4;
       margin-top: -9px;
   }
 
