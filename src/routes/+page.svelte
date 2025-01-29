@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="styles/index.css" />
 <main in:fly="{{ y: 20, duration: 500}}">
   <div class="intro">    
-    <h1>Hi, my name is Peter.</h1>
+    <h1>Hi, my name is Peter!</h1>
     <p class="paragraph">
       I’m a <b>computer science</b> student at the Toronto Metropolitan
       University. I have a big interest in all things related to <b>web development</b>
