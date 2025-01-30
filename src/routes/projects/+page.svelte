@@ -9,7 +9,7 @@
         <div class="project-card nha">
           <a>nha cafe</a>
           <p>
-            main website for a coffee shop in halifax, personally designed and built by my own
+            Main website for a coffee shop in Halifax, personally designed and built by me
           </p>
           <div class="language">nextjs · tailwind css · posthog</div>
         </div>
