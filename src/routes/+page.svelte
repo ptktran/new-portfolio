@@ -5,10 +5,10 @@
 <link rel="stylesheet" href="styles/index.css" />
 <main in:fly="{{ y: 20, duration: 500}}">
   <div class="intro">    
-    <h1>Hi, my name is Peter!</h1>
+    <h1>hi, my name is peter!</h1>
     <p class="paragraph">
-      I’m a <b>computer science</b> student at the Toronto Metropolitan
-      University. I have a big interest in all things related to <b>web development</b>
+      I’m currently a front end developer at a defense startup, and a recent graduate of <b>Toronto Metropolitan University</b>. 
+      I have a big interest in all things related to <b>web development</b>
       and <b>UI/UX design</b>! During my free time, I love to play and listen
       to music, watch movies, and cook. My favorite languages are <b>Python</b> and
       <b>JavaScript</b>, but I’m always looking to add a new one to the list. Check out

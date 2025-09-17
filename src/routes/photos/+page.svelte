@@ -34,6 +34,3 @@
     </div>
   </div>
 </main>
-<div class="copyright">
-  <p>&copy peter tran 2023</p>
-</div>

@@ -48,7 +48,7 @@
           <a>personal website</a>
           <p>
             a personal website that showcases general information about
-            myself, my projects, and photographs i have taken
+            myself, my projects, and photographs i have taken.
           </p>
           <div class="language">sveltekit · css</div>
         </div>
@@ -56,7 +56,7 @@
 
       <div class="project-card startupweb">
         <a>startup website</a>
-        <p>a landing page for a startup created during an apprenticeship</p>
+        <p>a landing page for a startup created during an apprenticeship.</p>
         <div class="language">html · css</div>
       </div>
 
